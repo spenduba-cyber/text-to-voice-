@@ -1,0 +1,7 @@
+{
+  "name": "SuaraGen AI - Text to Sound & Kloning Suara 3 Bahasa",
+  "description": "Generator teks ke suara AI dengan ragam pilihan karakter suara (Aldi, Gadis, Grag, Luna, dll), kloning suara dari rekaman/file, pilihan vibes emosional, dan konversi otomatis 3 bahasa (Indonesia, Inggris, Arab) sekaligus dalam satu file audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
